@@ -2,7 +2,7 @@
 title: "How can I participate?"
 ---
 
-You will be able to find more resources here closer to the event. Clicking the links below will download the associated files.
+You will be able to find more resources here closer to the event.
 
 ### Technical instructions
 
@@ -11,7 +11,17 @@ iNaturalist How-Tos
 ### Common organism field guides
 
 ```{=html}
-<a href="/resources/invertebrates.pdf" download>Invertebrates</a>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Invertebrates</title>
+  </head>
+  <body>
+    <iframe src="/resources/invertebrates.pdf" width="90%" height="500px">
+    </iframe>
+  </body>
+</html>
+<a href="/resources/invertebrates.pdf"></a>
 ```
 \
 Plants
