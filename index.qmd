@@ -1,11 +1,7 @@
 ---
-title: "davis-backyard-bioblitz"
+title: "What is a BioBlitz?"
 ---
 
-This is a Quarto website.
+A BioBlitz is a community-wide intensive biological collection event conducted over a specified period of time. This year, the Davis Backyard Museum BioBlitz will take place from **February 18th, 2023** to **March 18th, 2023** with introductory events taking place on February 18th. Participants will be able to post their observations to the community science platform, iNaturalist, for the entire month.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+More info and a schedule of events to follow.

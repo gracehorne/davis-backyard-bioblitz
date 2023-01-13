@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "davis-backyard-bioblitz",
+    "title": "What is a BioBlitz?",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "A BioBlitz is a community-wide intensive biological collection event conducted over a specified period of time. This year, the Davis Backyard Museum BioBlitz will take place from February 18th, 2023 to March 18th, 2023 with introductory events taking place on February 18th. Participants will be able to post their observations to the community science platform, iNaturalist, for the entire month.\nMore info and a schedule of events to follow."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "How can I participate?",
+    "section": "",
+    "text": "You will be able to find more resources here closer to the event. Clicking the links below will download the associated files.\n\nTechnical instructions\niNaturalist How-Tos\n\n\nCommon organism field guides\nInvertebrates\n\nPlants\nMammals\nBirds"
+  },
+  {
+    "objectID": "resources.html#technical-instructions",
+    "href": "resources.html#technical-instructions",
+    "title": "How can I participate?",
+    "section": "Technical instructions",
+    "text": "Technical instructions"
+  },
+  {
+    "objectID": "resources.html#common-backyard-organism-field-guides",
+    "href": "resources.html#common-backyard-organism-field-guides",
+    "title": "How can I participate?",
+    "section": "Common Backyard Organism Field Guides",
+    "text": "Common Backyard Organism Field Guides\nCommon Invertebrates"
+  },
+  {
+    "objectID": "resources.html#common-organisms-field-guides",
+    "href": "resources.html#common-organisms-field-guides",
+    "title": "How can I participate?",
+    "section": "Common Organisms Field Guides",
+    "text": "Common Organisms Field Guides\nInvertebrates\nPlants\nMammals\nBirds"
   }
 ]

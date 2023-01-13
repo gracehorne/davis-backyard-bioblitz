@@ -1,17 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "davis-backyard-bioblitz"
+  title: "Davis Backyard Museum BioBlitz"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: resources.qmd
+        text: Resources
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

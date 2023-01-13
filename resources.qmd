@@ -1,0 +1,21 @@
+---
+title: "How can I participate?"
+---
+
+You will be able to find more resources here closer to the event. Clicking the links below will download the associated files.
+
+### Technical instructions
+
+iNaturalist How-Tos
+
+### Common organism field guides
+
+```{=html}
+<a href="/resources/invertebrates.pdf" download>Invertebrates</a>
+```
+\
+Plants
+
+Mammals
+
+Birds\
